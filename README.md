@@ -61,7 +61,7 @@ Stitch four overlapping images of a distant building into a single panorama.
 
 ## 🎥 Cam Calibration and Depth Estimate
 <p align="center">
-  <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/download.pngf" width="45%" />
+  <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/download.png" width="45%" />
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/download%20(1).png" width="45%" />
 </p>
 ### Single Camera Calibration
