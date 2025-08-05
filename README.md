@@ -1,5 +1,4 @@
-# Perception
-# Computer Vision Projects 🚀
+# Perception Foundations
 
 This repository contains implementations of five computer vision problems involving object tracking, edge detection, image stitching, camera calibration, and stereo depth estimation using OpenCV and NumPy. Each task demonstrates hands-on understanding of core vision techniques, designed without using high-level abstraction functions for key computations.
 
