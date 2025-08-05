@@ -8,7 +8,8 @@ This repository contains implementations of five computer vision problems involv
 <p align="center">
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Object%20Tracking/Object_tracking-ezgif.com-video-to-gif-converter.gif" width="45%" />
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Object%20Tracking/download.png" width="45%" />
-</p>
+</p>   
+
 ### 🎯 Goal:
 Track a black object thrown in a video and fit its trajectory using standard least squares to obtain a parabolic motion curve.
 
@@ -27,7 +28,7 @@ Track a black object thrown in a video and fit its trajectory using standard lea
 ### Paper Edge Detection
 <p align="center">
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Edge%20Detection%20and%20Image%20Stitching/output_video3-ezgif.com-crop.gif" width="70%" />
-</p>
+</p>   
 
 #### 🎯 Goal:
 Detect and highlight the four corners and edges of a paper in a video, while filtering out blurry frames.
@@ -45,7 +46,7 @@ Detect and highlight the four corners and edges of a paper in a video, while fil
 ### Image Stitching (Panorama)
 <p align="center">
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Edge%20Detection%20and%20Image%20Stitching/Stich%20out.png" width="70%" />
-</p>
+</p>    
 
 #### 🎯 Goal:
 Stitch four overlapping images of a distant building into a single panorama.
@@ -59,12 +60,13 @@ Stitch four overlapping images of a distant building into a single panorama.
 
 ---
 
-## 🎥 Cam Calibration and Depth Estimate
+## 🎥 Cam Calibration and Depth Estimate   
+### Single Camera Calibration
 <p align="center">
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/download.png" width="45%" />
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/download%20(1).png" width="45%" />
-</p>
-### Single Camera Calibration
+</p>   
+
 
 #### 🎯 Goal:
 Calibrate a camera using a chessboard/circular pattern and visualize the reprojection errors and results.
@@ -81,7 +83,8 @@ Calibrate a camera using a chessboard/circular pattern and visualize the reproje
 ### Stereo Depth Estimation
 <p align="center">
   <img src="https://github.com/anbarasank2000/Perception/blob/main/Cam%20Calibration%20and%20Depth%20Estimate/Depth%20Map.png" width="70%" />
-</p>
+</p>    
+
 #### 🎯 Goal:
 Use stereo image pairs and calibration data to compute depth maps.
 
